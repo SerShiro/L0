@@ -1,0 +1,49 @@
+{
+  "order_uid": "b123feb71238123test1",
+  "track_number": "WBILMTESTTRACKTEST",
+  "entry": "WBILTEST",
+  "delivery": {
+    "name": "Test Testov TEST",
+    "phone": "+9720123123",
+    "zip": "2639809",
+    "city": "Kiryat Mozkin TEST",
+    "address": "Ploshad Mira TEST",
+    "region": "Kraiot123",
+    "email": "test@gmail.test"
+  },
+  "payment": {
+    "transaction": "b123feb71238123test",
+    "request_id": "",
+    "currency": "USD",
+    "provider": "wbpay",
+    "amount": 1123,
+    "payment_dt": 123123727,
+    "bank": "alpha",
+    "delivery_cost": 3211,
+    "goods_total": 321,
+    "custom_fee": 1
+  },
+  "items": [
+    {
+      "chrt_id": 5321123,
+      "track_number": "WBILMTESTTRACKTEST",
+      "price": 453,
+      "rid": "ab4219087a764ae0btest",
+      "name": "MascarasTEST",
+      "sale": 30,
+      "size": "123",
+      "total_price": 317,
+      "nm_id": 2389212,
+      "brand": "Vivienne Sabo",
+      "status": 202
+    }
+  ],
+  "locale": "en",
+  "internal_signature": "",
+  "customer_id": "test",
+  "delivery_service": "meest",
+  "shardkey": "9",
+  "sm_id": 99,
+  "date_created": "2021-11-26T06:22:19Z",
+  "oof_shard": "1"
+}
